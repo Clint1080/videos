@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# going to keep my api key out of github just to be safe
+/src/apis
